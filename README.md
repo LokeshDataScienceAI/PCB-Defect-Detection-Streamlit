@@ -1,2 +1,2 @@
-# PCB-Defect-Detection-Streamlit
-AI-powered PCB defect detection system using YOLO11n and Streamlit for automated quality inspection.
+# Deep-Learning-Based-PCB-Defect-Detection
+Deep Learning-based PCB defect detection using YOLO11n, OpenCV, and real-time webcam inspection.
